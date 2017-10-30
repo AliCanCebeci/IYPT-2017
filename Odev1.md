@@ -1,21 +1,31 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-E   | ALİ CAN CEBECİ | 624
 
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
-## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
+#  STEAM BOAT
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+Buharlı bot, pop pop motoru ile çalışır.  İçindeki su buharla yanıp söner ve bu suyu
+ atış borularından iter. Daha sonra buhar kabarcığı yoğunlaşır ve soğuk su hazneye 
+ tekrar alınır. Bu işlem ısı kaynağı olduğu sürece devam eder. Böylece bot hareket 
+ eder. 
+
+Projenin amacı bu olayı en iyi netlikte  açıklamak ve botu geliştirerek hızlanmasını 
+sağlamaktır. İyi bir araştırma yapılmalıdır. Daha sonra deney yapmam gerekir. 
+Yaptığım birinci deneyin sonuçları, bir sonraki tasarımın temellerini oluşturur. 
+Yapılan deneylerin hataları, yapacağım bir sonraki adımın parçası olacaktır. 
+
+
+## REFERANS ALINAN KAYNAKLAR  
+
+“Pop Pop Boats  - What are they?”.Pop Pop Boats & Interesting Toys.
+http://www.poppopboats.net/whatisapoppopboat.html
+
+Second Pop Pop Engine(youtube.com, from creativeobsin,12 October 2014) 
+https://youtu.be/hGh_erQOojk?t=1m2s
+
+Max Speed Jet-Water Pulse Motor pop pop.(youtube.com, from Larskro, 19 July 2015)
+https://youtu.be/hGh_erQOojk?t=1m2s
 
